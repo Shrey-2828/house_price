@@ -1,2 +1,2 @@
 * House price prediction 
-* ** 99aceres_desc dataset ahmedabad ** 
+* ** 99aceres_desc dataset ahmedabad **
